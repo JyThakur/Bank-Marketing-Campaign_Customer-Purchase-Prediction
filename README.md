@@ -1,5 +1,3 @@
-# Bank Marketing Dataset: Customer Purchase Prediction
-
 ## Introduction
 This project focuses on predicting whether a customer will purchase a product or service based on behavioral and demographic data from a bank marketing campaign. The dataset originates from a Portuguese bank's direct marketing campaigns, where customers were contacted via phone calls to subscribe to a term deposit. The goal is to leverage Exploratory Data Analysis (EDA) and a Decision Tree model to understand key factors influencing customer decisions.
 
