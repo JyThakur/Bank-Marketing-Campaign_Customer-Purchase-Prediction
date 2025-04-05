@@ -51,4 +51,4 @@ This project demonstrated the use of EDA and Decision Tree modeling to predict c
 
 **Tools Used:** Python, Pandas, Seaborn, Matplotlib, Scikit-Learn.
 
-**Author:** [Jay Thakur]
+**Author:** Jay Thakur
