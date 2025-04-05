@@ -1,3 +1,5 @@
+# **Bank Marketing Campaign: Customer Purchase Prediction**
+
 ## **Introduction**  
 This project analyzes a **Portuguese bank's marketing campaign dataset** containing **45,211 customer records**. The data includes demographic (`age`, `job`, `marital`), financial (`balance`, `loan`), and campaign-related (`duration`, `poutcome`) features. The goal is to predict whether a customer will subscribe to a **term deposit (target: `y`)** using a Decision Tree classifier, helping the bank optimize future campaigns.
 
